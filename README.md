@@ -1,16 +1,64 @@
-### Hi there 👋
+### Hi, my name is Edward 👋
 
-<!--
-**CsaProtocol/CsaProtocol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Métiers**: Information Security, Computer Forensics, Malware Engineering, DevSecOps
 
-Here are some ideas to get you started:
+### Skills 🛠️
+- **Languages**:                 Java, C++, Microsoft PowerShell, Prolog, Python
+- **Security Tools**:            Burp Suite, Metasploit, Nessus Essentials, NMap
+- **OS**:                        Linux, FreeBSD, Windows Server, Solaris
+- **DevOps**:                    Azure, Docker, Kubernetes
+- **Databases**:                 Oracle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Studying 📚
+- **Security**:                  HTB CPTS Certification
+- **Languages**:                 JavaFX
+- **Database**:                  PostGreSQL
+- **DevOps**:                    Terraform
+
+### Work experience 🧑🏻‍💻
+| Job Position                 | Company            | Field                        | Work Period                |
+| ---------------------------- | ------------------ | ---------------------------- | -------------------------- |
+| **Penetration Tester**       | **Freelance work** | **Information Security**     | **01.07.2022 — ongoing**   |
+
+### Education 🎓
+- [Bachelor's degree](https://informatica.dieti.unina.it/index.php/it/) | Computer Science @ Naples University Federico II (2019 - ongoing)
+- [Bug Bounty Hunter Path](https://academy.hackthebox.com/path/preview/bug-bounty-hunter) @ HackTheBox Academy (11.2022 - ongoing)
+- [Software Engineering Virtual Experience Program](https://www.theforage.com/virtual-internships/prototype/NPdeQ43o8P9HJmJzg/Goldman-Sachs-Virtual-Experience-Program) @ Goldman Sachs & Forage
+
+### Certifications 📜
+
+- [Python: Istruzioni per l'uso](https://www.coursera.org/account/accomplishments/certificate/2VLFJRXASC7J) @ Naples University Federico II (2020)
+- [First Certificate in English]() @ Cambridge Assessment English (2018)
+- [Introduction to Internet of Everything]() @ Cisco Networking Academy (2018)
+
+### My latest projects 🛡️
+
+- <b>Java Desktop App (JavaFX, PostGreSQL)</b>
+  - [TortoiseHospital](https://github.com/CsaProtocol/TortoiseHospital) - Information System for sea turtle recovery and conservation.
+- <b>PowerShell</b>
+  - [FIM (File Integrity Monitor)](https://github.com/CsaProtocol/PowerShell-FIM) - FIM proof-of-concept in PowerShell
+- <b>Data Structures and Algorithms Practice</b>
+  - [Data Structures Practice in C++]()
+- <b>Prolog</b>
+  - [WAF (Web Application Firewall)](https://github.com/CsaProtocol/Prolog-WAF) - WAF proof-of-concept in Prolog
+
+### Latest projects I've contributed to 🔗
+
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - Italian translation for Chirpy.
+
+### Conference participation 📈
+- [Devfest Naples](https://gdgnapoli.it/) 2022
+- [Github Universe](https://githubuniverse.com/) (2022) 
+
+### 📰 Recent Blog Posts
+
+- [Mapping Bruteforce Attacks on Azure](https://csaprotocol.github.io/2022/2022-11-15-mapping-bruteforce-attacks-on-azure/)
+
+### 📫 How to reach me:
+
+- Website: [csaprotocol.github.io](https://csaprotocol.github.io)
+- Email: [csaprotocol@proton.me](mailto:csaprotocol@proton.me)
+- LinkedIn: [gaudiosied](https://linkedin.com/in/gaudiosied)
+- Twitter: [@csaprotocol](https://twitter.com/csaprotocol)
+- Instagram: [@csaprotocol](https://instagram.com/csaprotocol)
+- Twitch: [CsaProtocol](https://twitch.tv/csaprotocol)
