@@ -23,7 +23,7 @@
 ### Education 🎓
 - [Bachelor's degree](https://informatica.dieti.unina.it/index.php/it/) | Computer Science @ Naples University Federico II (2019 - ongoing)
 - [Bug Bounty Hunter Path](https://academy.hackthebox.com/path/preview/bug-bounty-hunter) @ HackTheBox Academy (11.2022 - ongoing)
-- [Software Engineering Virtual Experience Program](https://www.theforage.com/virtual-internships/prototype/NPdeQ43o8P9HJmJzg/Goldman-Sachs-Virtual-Experience-Program) @ Goldman Sachs & Forage
+- [Software Engineering Virtual Experience Program](https://www.theforage.com/virtual-internships/prototype/NPdeQ43o8P9HJmJzg/Goldman-Sachs-Virtual-Experience-Program) @ Goldman Sachs & Forage (02.2023)
 
 ### Certifications 📜
 
