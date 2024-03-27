@@ -3,7 +3,7 @@
 **Métiers**: Information Security
 
 ### Skills 🛠️
-- **Languages**:⠀⠀⠀⠀⠀⠀⠀Java, C++, Microsoft PowerShell, Prolog, Python
+- **Languages**:⠀⠀⠀⠀⠀⠀⠀Java, JavaFX, C++, Microsoft PowerShell, Prolog, Python
 - **Security Tools**:⠀⠀⠀⠀⠀Burp Suite, Metasploit, Nessus Essentials, NMap
 - **Databases**:⠀⠀⠀⠀⠀⠀⠀PostgreSQL (PL/pgSQL)
 
