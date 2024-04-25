@@ -12,9 +12,9 @@
 - **DevOps**:⠀⠀⠀⠀⠀⠀⠀⠀⠀Azure, Docker, Kubernetes (Exam "Ingegneria del Software")
 
 ### Work experience 🧑🏻‍💻
-| Job Position | Company | Field | Work Period |
-| ---------------------------- | ------------------ | ---------------------------- | -------------------------- |
-|  Alternanza scuola-lavoro | CERN | Astropartycle Physics | 2017-2018 (~100hrs)  |
+| Job Position | Company | Field | Work Period | Project Name |
+| ---------------------------- | ------------------ | ---------------------------- | -------------------------- | -------------------------- |
+|  Alternanza scuola-lavoro | CERN | Astropartycle Physics | 2017-2018 (~100hrs) |  Extreme Energy Events |
 
 ### Education 🎓
 - [Bachelor's degree](https://informatica.dieti.unina.it/index.php/it/) | Computer Science @ Naples University Federico II (2019 - ongoing)
