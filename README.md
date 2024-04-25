@@ -9,7 +9,7 @@
 
 ### Currently Studying 📚
 - **CyberSecurity**:⠀⠀⠀⠀⠀HTB CPTS Certification
-- **DevOps**:⠀⠀⠀⠀⠀⠀⠀⠀⠀Azure, Docker, Kubernetes (Exam "Ingegneria del Software")
+- **University**:⠀⠀⠀⠀⠀⠀⠀ DigitalOcean cloud, Kubernetes, Quarkus, Docker
 
 ### Work experience 🧑🏻‍💻
 | Job Position | Company | Field | Work Period | Project Name |
