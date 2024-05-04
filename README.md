@@ -55,6 +55,6 @@
 - Website: [csaprotocol.github.io](https://csaprotocol.github.io)
 - Email: [csaprotocol@proton.me](mailto:csaprotocol@proton.me)
 - LinkedIn: [gaudiosied](https://linkedin.com/in/gaudiosied)
-- Twitter: [@csaprotocol](https://twitter.com/csaprotocol)
-- Instagram: [@csaprotocol](https://instagram.com/csaprotocol)
 - Twitch: [CsaProtocol](https://twitch.tv/csaprotocol)
+- X: [@csaprotocol](https://twitter.com/csaprotocol)
+
