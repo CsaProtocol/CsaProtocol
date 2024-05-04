@@ -41,7 +41,7 @@
 
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - Italian translation for Chirpy.
 
-### Conference participation 📈
+### Attended conferences 📈
 - [Devfest Naples](https://gdgnapoli.it/) 2022
 - [Github Universe](https://githubuniverse.com/) (2022)
 - [CSL2024](https://csl2024.github.io/Home/) (2024)
