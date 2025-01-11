@@ -16,7 +16,7 @@
 |  Alternanza scuola-lavoro | CREF | Astropartycle Physics | 2017-2018 (~100hrs) |  [Extreme Energy Events](https://eee.centrofermi.it/en/) |
 
 ### Education 🎓
-- [Bachelor's degree](https://informatica.dieti.unina.it/index.php/it/) | Computer Science @ Naples University Federico II (2019 - ongoing)
+- [Bachelor's degree](https://informatica.dieti.unina.it/index.php/it/) | Computer Science @ Naples University Federico II 
 - [Bug Bounty Hunter Path](https://academy.hackthebox.com/path/preview/bug-bounty-hunter) @ HackTheBox Academy (07.2022 - 11.2022)
 
 ### Certifications 📜
