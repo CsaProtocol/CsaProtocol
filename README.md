@@ -7,8 +7,8 @@
 - **Databases**:⠀⠀⠀⠀⠀⠀⠀PostgreSQL (PL/pgSQL)
 
 ### Currently Studying 📚
-- **CyberSecurity**:⠀⠀⠀⠀⠀HTB CPTS Certification
-- **University**:⠀⠀⠀⠀⠀⠀⠀ DigitalOcean Cloud, Kubernetes, Quarkus, Docker
+- **University**:⠀⠀⠀⠀⠀⠀⠀ DigitalOcean Cloud, Docker
+- **Languages**:⠀⠀⠀⠀⠀⠀⠀  Elixir
 
 ### Work experience 🧑🏻‍💻
 | Job Position | Company | Field | Work Period | Project Name |
@@ -17,7 +17,6 @@
 
 ### Education 🎓
 - [Bachelor's degree](https://informatica.dieti.unina.it/index.php/it/) | Computer Science @ Naples University Federico II 
-- [Bug Bounty Hunter Path](https://academy.hackthebox.com/path/preview/bug-bounty-hunter) @ HackTheBox Academy (07.2022 - 11.2022)
 
 ### Certifications 📜
 
@@ -33,8 +32,6 @@
     - Used libraries: [PostgreSQL pgcrypto](https://www.postgresql.org/docs/current/pgcrypto.html), [MaterialFX for JavaFX](https://github.com/palexdev/MaterialFX), [ControlsFX](https://github.com/controlsfx/controlsfx), [Google Guava](https://github.com/google/guava), [Project Lombok](https://projectlombok.org/), [HikariCP](https://github.com/brettwooldridge/HikariCP)   
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/CsaProtocol/PowerShell-FIM) - FIM proof-of-concept in PowerShell
-- <b>Data Structures and Algorithms Practice</b>
-  - [Data Structures Practice in C++](https://github.com/CsaProtocol/Data-Structures-Cpp) - Data Structures project for the exam "Laboratorio di Algoritmi e Strutture Dati"
 
 ### Latest projects I've contributed to 🔗
 
