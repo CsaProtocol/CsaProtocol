@@ -44,8 +44,6 @@ My work on **AstroMusic** has been acknowledged in the scientific paper:
 - [Devfest Naples](https://gdgnapoli.it/) 2022
 - [Github Universe](https://githubuniverse.com/) (2022)
 
-![Profile views](https://komarev.com/ghpvc/?username=CsaProtocol)
-
 ---
 
 *Feel free to explore my repositories and reach out for collaborations!*
