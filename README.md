@@ -1,4 +1,4 @@
-### Hi, I'm CsaProtocol 👋
+### Hi, I'm Eduardo (CsaProtocol) 👋
 
 ### 💻 Software Engineer & Algorithm Enthusiast
 
